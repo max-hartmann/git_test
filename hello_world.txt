@@ -1,2 +1,3 @@
 Some text
 In a new line even
+Even something new
